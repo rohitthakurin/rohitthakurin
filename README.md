@@ -1,14 +1,34 @@
 # Rohit Thakur
 
-**Senior Manager – Server Admin @ RightWave.** I head the IT and server infrastructure that keeps a business secure, reliable, and always available — the kind of work most people only notice when something stops.
+**Senior Manager – Server Admin & IT Head @ RightWave.** With 15+ years in IT, I head the server and infrastructure that keeps a business secure, reliable, and always available — the kind of work most people only notice when something stops.
 
-Off the clock, I build small, fast static web tools and create on YouTube.
+In 2026 I'm actively applying AI and automation tools to make IT operations smarter. Off the clock, I build small static web tools and create on YouTube.
 
 ---
 
-### What I work with
+### Infrastructure & security
 
-`Server administration` · `VMware / virtualization` · `Active Directory & domains` · `Databases` · `Email systems` · `Networking` · `Firewalls` · `Information security` · `Cloud services` · `Backup & DR` · `HTML / CSS / JavaScript` · `Git` · `Cloudflare`
+`Server administration` · `VMware vSphere` · `Virtualization` · `Active Directory & domains` · `Microsoft SQL Server` · `Linux administration` · `Email deliverability` · `Firewalls` · `Networking` · `ISO 27001 / ISMS` · `Cyber security` · `Backup & DR` · `Cloud services`
+
+### AI & automation
+
+`ChatGPT & Custom GPTs` · `Claude (Anthropic)` · `Google Gemini` · `NotebookLM` · `n8n` · `Zapier` · `Make` · `Google Flow` · `Lovable` · `Prompt engineering`
+
+### Web & tooling
+
+`HTML / CSS / JavaScript` · `Git & GitHub` · `Cloudflare` · `Static site deployment`
+
+---
+
+### Certifications
+
+- **AI and ChatGPT Workshop** — Be10x (Mar 2026)
+- **AI Tools Workshop** — Be10x (Feb 2026)
+- **VMware Certified Professional** — Skillsoft (Jun 2023)
+- **Fundamentals of Information Security** — Infosys Springboard (Jun 2023)
+- **Introduction to Cyber Security** — Infosys Springboard (Jun 2023)
+
+---
 
 ### On the web
 
@@ -20,4 +40,4 @@ Off the clock, I build small, fast static web tools and create on YouTube.
 
 ---
 
-> Infrastructure that stays secure, reliable, and ready — so every team can keep moving.
+> Keeping the infrastructure secure, reliable, and always ready.
