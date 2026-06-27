@@ -8,15 +8,15 @@ In 2026 I'm actively applying AI and automation tools to make IT operations smar
 
 ### Infrastructure & security
 
-`Server administration` · `VMware vSphere` · `Virtualization` · `Active Directory & domains` · `Microsoft SQL Server` · `Linux administration` · `Email deliverability` · `Firewalls` · `Networking` · `ISO 27001 / ISMS` · `Cyber security` · `Backup & DR` · `Cloud services`
+`Server administration` · `VMware vSphere` · `Virtualization` · `Active Directory & domains` · `Microsoft SQL Server` · `Linux administration` · `Email deliverability` · `Firewalls` · `Networking` · `ISO 27001 / ISMS` · `Cyber security` · `Backup & DR` · `Cloud services` · `SSL/TLS certificate management` · `CSR generation` · `JKS (Java KeyStore)` · `Domain validation (DV/OV)` · `SSL on Apache Tomcat (Java)` · `SSL on IIS (ASP.NET)` · `SSL on XAMPP / WordPress (Linux)` · `Let's Encrypt (Certbot)` · `Certificate installation & renewal`
 
 ### AI & automation
 
 `ChatGPT & Custom GPTs` · `Claude (Anthropic)` · `Google Gemini` · `NotebookLM` · `n8n` · `Zapier` · `Make` · `Google Flow` · `Lovable` · `Prompt engineering`
 
-### Web & tooling
+### Web, cloud & domains
 
-`HTML / CSS / JavaScript` · `Git & GitHub` · `Cloudflare` · `Static site deployment`
+`HTML / CSS / JavaScript` · `Git & GitHub` · `Cloudflare` · `GoDaddy` · `Namecheap` · `DurableDNS` · `DNS management` · `Domain administration` · `Static site deployment`
 
 ---
 
