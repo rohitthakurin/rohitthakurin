@@ -1,14 +1,26 @@
 # Rohit Thakur
 
-**Senior Manager – Server Admin & IT Head @ RightWave.** With 15+ years in IT, I head the server and infrastructure that keeps a business secure, reliable, and always available — the kind of work most people only notice when something stops.
+**Senior Manager – Server Admin & Head of IT @ RightWave.** With 15+ years in IT, I oversee enterprise infrastructure across three locations — US Data Center, Noida DC+Office, and Dehradun branch.
 
 In 2026 I'm actively applying AI and automation tools to make IT operations smarter. Off the clock, I build small static web tools and create on YouTube.
 
 ---
 
-### Infrastructure & security
+### Infrastructure & servers
 
-`Server administration` · `VMware vSphere` · `Virtualization` · `Active Directory & domains` · `Microsoft SQL Server` · `Linux administration` · `Email deliverability` · `Firewalls` · `Networking` · `ISO 27001 / ISMS` · `Cyber security` · `Backup & DR` · `Cloud services` · `SSL/TLS certificate management` · `CSR generation` · `JKS (Java KeyStore)` · `Domain validation (DV/OV)` · `SSL on Apache Tomcat (Java)` · `SSL on IIS (ASP.NET)` · `SSL on XAMPP / WordPress (Linux)` · `Let's Encrypt (Certbot)` · `Certificate installation & renewal`
+`Server administration` · `Dell PowerEdge` · `VMware vSphere` · `Virtualization` · `Windows Server` · `Linux (Ubuntu / CentOS / Rocky)` · `Active Directory & domains` · `MS SQL Server` · `MongoDB` · `MySQL` · `Redis` · `Apache Tomcat` · `Apache / Nginx` · `Google Workspace Admin` · `Email servers` · `Backup & DR` · `Zero-downtime migrations` · `Multi-location IT management`
+
+### Email deliverability
+
+`MX / SPF / DKIM / DMARC` · `Email authentication & audits` · `Marketo` · `Pardot` · `HubSpot` · `IP & domain blacklist monitoring` · `Sender & domain configuration` · `99%+ delivery rates`
+
+### Network & security
+
+`pfSense firewall` · `Firewalls` · `Networking` · `ISO 27001 / ISMS` · `Cyber security` · `IT operations & uptime` · `SSL/TLS certificate management` · `CSR generation` · `JKS (Java KeyStore)` · `Domain validation (DV/OV)` · `SSL on Apache Tomcat (Java)` · `SSL on IIS (ASP.NET)` · `SSL on XAMPP / WordPress (Linux)` · `Let's Encrypt (Certbot)` · `Certificate installation & renewal`
+
+### Self-hosted platforms (deployed from scratch on Linux)
+
+`WordPress + Elementor` · `Hostinger` · `Rocket.Chat CE` · `Snipe-IT` · `Moodle LMS` · `TAO Exam Platform` · `Ubuntu Server` · `LAMP stack`
 
 ### AI & automation
 
